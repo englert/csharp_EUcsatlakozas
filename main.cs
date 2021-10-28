@@ -38,7 +38,8 @@ class Program{
 // 4.feladat: 2007-ben ? ország csatlakozott.
     var darab = (
         from sor in lista 
-        where sor.ev == "2007" select sor
+        where sor.ev == "2007" 
+        select sor
         ).Count();
     Console.WriteLine($"4. feladat: 2007-ben {darab} ország csatlakozott.");
 
