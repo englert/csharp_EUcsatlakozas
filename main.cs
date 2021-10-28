@@ -1,6 +1,6 @@
-//   EUcsatlakozas.txt
-//Ausztria;1995.01.01
-//Belgium;1958.01.01
+// EUcsatlakozas.txt  http://www.infojegyzet.hu/vizsgafeladatok/okj-programozas/rendszeruzemelteto-191008/
+// Ausztria;1995.01.01
+// Belgium;1958.01.01
 using System;
 using System.IO;
 using System.Text;
