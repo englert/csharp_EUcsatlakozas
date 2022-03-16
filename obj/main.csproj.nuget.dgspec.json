@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/csharpEUcsatlakozas/main.csproj": {}
+    "/home/runner/csharpeu/main.csproj": {}
   },
   "projects": {
-    "/home/runner/csharpEUcsatlakozas/main.csproj": {
+    "/home/runner/csharpeu/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/csharpEUcsatlakozas/main.csproj",
+        "projectUniqueName": "/home/runner/csharpeu/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/csharpEUcsatlakozas/main.csproj",
+        "projectPath": "/home/runner/csharpeu/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/csharpEUcsatlakozas/obj/",
+        "outputPath": "/home/runner/csharpeu/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "62Y23qHkilAI2lzvZyji7GrBGlxQJT6ryl0SRTTp5gHhYMQjeApZ+yNYgEyNVQGKptr9acfv8XUFAuZ04q+eWg==",
+  "dgSpecHash": "2/vdvW9Ec/pDhf8kGVyF5NElCkuU47+0CzSmmIzMWHWEWFYPUGy1kmv8KCXZhBuBAC2Kew2HMhOovwPFQpNQ8Q==",
   "success": true,
-  "projectFilePath": "/home/runner/csharpEUcsatlakozas/main.csproj",
+  "projectFilePath": "/home/runner/csharpeu/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
